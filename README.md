@@ -1,2 +1,2 @@
 # perpus
-aaaaaaa
+Menggunakan PHP Native, CRUD sederhana
